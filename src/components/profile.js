@@ -39,7 +39,7 @@ class Card extends Component {
               <img
                 className="z-depth-5"
                 style={imageStyle}
-                src={require("../assets/img/folio.jpg")}
+                src={require("../assets/img/1folio.jpg")}
                 alt="profile"
                 width="300"
                 height="300"
