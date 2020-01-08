@@ -16,7 +16,7 @@ const imageSize = {
   boxShadow: "10px 10px 50px black"
 };
 const divbag = {
-  borderRadius: 150,
+  borderRadius: 50,
   backgroundColor: "#f4efd3"
 };
 
